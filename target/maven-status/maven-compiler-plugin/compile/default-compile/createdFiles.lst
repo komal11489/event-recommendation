@@ -1,0 +1,5 @@
+com/example/event/repository/EventRepository.class
+com/example/event/service/EventService.class
+com/example/event/controller/EventController.class
+com/example/event/model/Event.class
+com/example/event/EventRecommendationServiceApplication.class
